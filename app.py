@@ -187,7 +187,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-DEFAULT_DATA_PATH = "/Users/USER/Documents/Models and Programs/simulated_zimbabwe_inflation_data_augmented.csv"
+DEFAULT_DATA_PATH = "simulated_zimbabwe_inflation_data_augmented.csv"
 
 
 SADC_LOWER = 3.0
